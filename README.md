@@ -66,12 +66,13 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
 <br>
 
 📊 Estatísticas
+<br>
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaikeLeonardo&theme=tokyonight"
+          src="https://github-readme-stats.vercel.app/api?username=CaikeLeonardo&theme=tokyonight&show_icons=true"
           alt="GitHub Stats"
           height="165"
         />
