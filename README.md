@@ -58,11 +58,26 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
 
 <br>
 
-### 📊 Estatísticas
-
+📊 Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaikeLeonardo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaikeLeonardo&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaikeLeonardo&theme=tokyonight"
+          alt="GitHub Stats"
+          height="165"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaikeLeonardo&theme=tokyonight"
+          alt="Top Languages"
+          height="165"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
