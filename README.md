@@ -31,6 +31,8 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+
+
 <p align="center">
   <b>🔧 Ferramentas e Plataformas</b>
 </p>
