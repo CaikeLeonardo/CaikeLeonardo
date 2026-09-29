@@ -12,7 +12,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-Sou curioso com computador desde pequeno, e quando comecei a programar me encontrei de vez. Hoje estudo Análise e Desenvolvimento de Sistemas e estou focado em backend, aprendendo na prática com projetos próprios.
+Sou curioso com computador desde pequeno, e quando comecei a programar e me encontrei de vez. Hoje estudo Análise e Desenvolvimento de Sistemas e estou focado em backend, aprendendo na prática com projetos próprios.
 
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas — Unijorge
 - 💻 Foco em desenvolvimento backend
