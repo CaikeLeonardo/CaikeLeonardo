@@ -21,7 +21,7 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
 
 <br>
 
-<h3>🛠️ Tecnologias & Habilidades</h3>
+### 🛠️ Tecnologias & Habilidades</h3>
 
 <div align="center">
   <p><b>💻 Linguagens e Banco de Dados</b></p>
@@ -65,7 +65,7 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
 
 <br>
 
-📊 Estatísticas
+### 📊 Estatísticas
 <br>
 <div align="center">
   <table>
