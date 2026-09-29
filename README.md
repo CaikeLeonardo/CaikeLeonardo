@@ -60,24 +60,31 @@ Sou curioso com computador desde pequeno, e quando comecei a programar e me enco
 
 📊 Estatísticas
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaikeLeonardo&theme=tokyonight"
-          alt="GitHub Stats"
-          height="165"
-        />
-      </td>
-      <td align="center">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaikeLeonardo&theme=tokyonight"
-          alt="Top Languages"
-          height="165"
-        />
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaikeLeonardo&theme=tokyonight"
+          alt="GitHub Stats"
+          height="165"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://streak-stats.demolab.com/?user=CaikeLeonardo&theme=tokyonight"
+          alt="GitHub Streak Stats"
+          height="165"
+        />
+      </td>
+      <td align="center">
+        <img
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CaikeLeonardo&theme=tokyonight"
+          alt="Top Languages"
+          height="165"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
